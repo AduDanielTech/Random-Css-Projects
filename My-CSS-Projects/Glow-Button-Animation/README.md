@@ -8,12 +8,12 @@
 /Random-Css-Projects">
   </a>
 
-<h3 align="center">Random Css Projects</h3>
+<h3 align="center">Glow Button Animation</h3>
 
   <p align="center">
     Random Css Templates for any project
     <br />
-    <a href="https://github.com/Fhejs7g/Random-Css-Projects/tree/main/My-CSS-Projects/Card%20Slider"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Fhejs7g/Random-Css-Projects/tree/main/My-CSS-Projects"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Fhejs7g/Random-Css-Projects/issues">Report Bug</a>
@@ -40,7 +40,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  
   </ol>
 </details>
 
@@ -49,16 +49,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
-
-Random Css templates to help you with youre next project.
+A button that glows when hovered on and an animation that goes around it
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ### Built With
-*  ![javascript][Javascript.dev]
 *  ![html][html.dev]
 *  ![Css][CSS.dev]
 
@@ -69,12 +66,14 @@ Random Css templates to help you with youre next project.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-it can be used in different projects in differnt ways e.g then <a href="https://github.com/Fhejs7g/Random-Css-Projects/tree/main/My-CSS-Projects/Animated-Tapbar">Animated Tapbar</a> can be used in navigating from one page to the other 
-![](images/animated-tapbar-img.jpg)
+it can be used for a button
+![](images/lv_0_20221205205135.mp4)
 <br/>
-And the <a href="https://github.com/Fhejs7g/Random-Css-Projects/tree/main/My-CSS-Projects/Card%20Slider">Card slider</a> can be used to navigate through images
-![](images/Card-slider.jpg)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Roadmap
+   create the html elements then align them to the center
+   create a hover effect that changes the background of a to the text color and the text color to the previous background color then add a box reflect property
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -83,7 +82,6 @@ And the <a href="https://github.com/Fhejs7g/Random-Css-Projects/tree/main/My-CSS
 
 Your Name - [@Marvel80726206](https://twitter.com/Marvel80726206) -adudaniel097@gmail.com
 
-Project Link: [https://github.com/Fhejs7g/Random-Css-Projects](https://github.com/Fhejs7g/Random-Css-Projects)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
