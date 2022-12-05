@@ -69,8 +69,11 @@ Random Css templates to help you with youre next project.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-it can be used in different projects in differnt ways e.g then animated tapbar
+it can be used in different projects in differnt ways e.g then <a href="https://github.com/Fhejs7g/Random-Css-Projects/tree/main/My-CSS-Projects/Animated-Tapbar">Animated Tapbar</a> can be used in navigatuing from one page to the other 
 ![](images/animated-tapbar-img.jpg)
+<br/>
+And the <a href="https://github.com/Fhejs7g/Random-Css-Projects/tree/main/My-CSS-Projects/Card%20Slider">Card slider</a> can be used to navigate through images
+![](images/Card-slider.jpg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
