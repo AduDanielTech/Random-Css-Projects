@@ -58,7 +58,9 @@ Random Css templates to help you with youre next project.
 
 
 ### Built With
-*  [![Next][Javascript.dev]]
+*  ![javascript][Javascript.dev]
+*  ![html][html.dev]
+*  ![Css][CSS.dev]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,5 +100,6 @@ Project Link: [https://github.com/Fhejs7g/Random-Css-Projects](https://github.co
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/https://www.linkedin.com/in/adu-daniel-464abb256/
 [product-screenshot]: images/screenshot.png
-[Javascript.dev]: https://img.shields.io/badge/.-Javacript-yellow
-[
+[Javascript.dev]: https://img.shields.io/badge/%20-Javacript-yellow
+[html.dev]: https://img.shields.io/badge/%20-HTML-orange
+[CSS.dev]: https://img.shields.io/badge/%20-CSS-blue
