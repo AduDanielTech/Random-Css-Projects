@@ -71,7 +71,7 @@ A button that glows when hovered on and an animation that goes around it
 <!-- USAGE EXAMPLES -->
 ## Usage
 it can be used for a button
-!https://user-images.githubusercontent.com/107186809/205732060-70e173c5-0027-4c57-8b6b-77024c8c1531.mp4
+https://user-images.githubusercontent.com/107186809/205732060-70e173c5-0027-4c57-8b6b-77024c8c1531.mp4
 <br/>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
